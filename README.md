@@ -14,6 +14,7 @@
 
 Here're some of the project's best features:
 
+*   Automatically pauses after multiple failed login attempts
 *   Concurrent account checking for high performance
 *   Full support for proxy usage
 *   Easily configurable settings
